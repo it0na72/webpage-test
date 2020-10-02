@@ -1,0 +1,23 @@
+body {
+	font-family: Century Gothic;
+	background-color: Turquoise;
+	background-image: url("bacalhau.jpg");
+	background-repeat: no-repeat;
+	}	
+h1 {
+	font-size:xx-large;
+	font-style:italic;
+	font-weight:bold;
+	color: Purple;
+	}
+.personal {
+	color:olive;
+	font-weight:bold;
+	font-size;18px;
+	}
+table { border: solid 3px Black }
+td { border: solid 3px Fuchsia }
+td {	margin:5px 10px 5px 10px;
+	padding: 10px 10px 10px 10px;
+}
+
